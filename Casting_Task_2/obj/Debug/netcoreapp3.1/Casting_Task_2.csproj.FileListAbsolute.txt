@@ -1,0 +1,14 @@
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\bin\Debug\netcoreapp3.1\Casting_Task_2.exe
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\bin\Debug\netcoreapp3.1\Casting_Task_2.deps.json
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\bin\Debug\netcoreapp3.1\Casting_Task_2.runtimeconfig.json
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\bin\Debug\netcoreapp3.1\Casting_Task_2.runtimeconfig.dev.json
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\bin\Debug\netcoreapp3.1\Casting_Task_2.dll
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\bin\Debug\netcoreapp3.1\Casting_Task_2.pdb
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\obj\Debug\netcoreapp3.1\Casting_Task_2.csproj.AssemblyReference.cache
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\obj\Debug\netcoreapp3.1\Casting_Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\obj\Debug\netcoreapp3.1\Casting_Task_2.AssemblyInfoInputs.cache
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\obj\Debug\netcoreapp3.1\Casting_Task_2.AssemblyInfo.cs
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\obj\Debug\netcoreapp3.1\Casting_Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\obj\Debug\netcoreapp3.1\Casting_Task_2.dll
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\obj\Debug\netcoreapp3.1\Casting_Task_2.pdb
+C:\Users\Elgun\Desktop\Casting_Task_2\Casting_Task_2\obj\Debug\netcoreapp3.1\Casting_Task_2.genruntimeconfig.cache
