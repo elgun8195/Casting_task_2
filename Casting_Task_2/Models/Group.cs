@@ -14,7 +14,7 @@ namespace Casting_Task_2.Models
         public Group() 
         {
             _no++;
-            No= $"AP{_no};
+            No= $"AP{_no}";
 
             Students = new Student[0];
 
