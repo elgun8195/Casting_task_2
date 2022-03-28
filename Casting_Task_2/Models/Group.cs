@@ -7,15 +7,14 @@ namespace Casting_Task_2.Models
     internal class Group
     {
         private static int _no = 100;
-        public int No { get; }
+        public string No { get; }
         private Student[] Students;
         public List<int> point;
 
         public Group() 
         {
             _no++;
-            No = _no;
-            Console.WriteLine($"AP{No}");
+            No= $"AP{_no});
 
             Students = new Student[0];
 
